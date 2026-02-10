@@ -9,7 +9,7 @@
 
 // Add your code right below, good luck!
 
-
+console.log(`Hello! My name is ${firstName} ${lastName} and I am ${thisYear - birthYear} years old`);
 
 
 
